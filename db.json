@@ -1,0 +1,40 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan",
+      "empresa": "La Refactoría S.L.",
+      "email": "juan@larefactoria.com",
+      "telefono": "912013313",
+      "notas": "",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "nombre": "Karen",
+      "telefono": 918198313,
+      "email": "karen@larefactoria.com",
+      "empresa": "La Refactoría S.L."
+    },
+    {
+      "id": "3",
+      "nombre": "Josue",
+      "telefono": 91983913,
+      "email": "josue@larefactoria.com",
+      "empresa": "La Refactoría S.L."
+    },
+    {
+      "id": "4",
+      "nombre": "Miguel",
+      "telefono": 919381983,
+      "email": "miguel@larefactoria.com",
+      "empresa": "La Refactoría S.L."
+    },
+    {
+      "id": "5",
+      "nombre": "Pedro",
+      "telefono": 9198198938,
+      "email": "pedro@larefactoria.com",
+      "empresa": "La Refactoría S.L."
+    }
+  ]
+}
